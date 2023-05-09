@@ -2,6 +2,9 @@
 
 #### A landing page template for a restaurant, Mirazur. It employs the use of HTML, CSS and Javascript to build it. 
 
+  You can view the webiste using the link given below:
+  https://mirazur-restaurant.netlify.app/
+
 ## Description
 The website, a landing page for Mirazur Restaurant is divided into the following sections:
 
